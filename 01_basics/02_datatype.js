@@ -16,7 +16,7 @@ let isloggein = false
 //symbol=> unique
 
 
-//object
+//object 
 
 console.log(typeof undefined);//undefine
 console.log(typeof null);
